@@ -1,0 +1,8 @@
+tensorflow
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+regex
+requests
